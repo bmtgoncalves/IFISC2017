@@ -1,5 +1,6 @@
 ## Description
 
+Throughout the past decade we have witnessed an unprecendented increase in the amount of data that is being produced about every facet of human existance. However, the rise in Data Availability has not resulted in a similar increase in the hability of researchers and stake holders to handle and extract information from the data. The goal of this course is to give an overview on the fundamentals of Data Science and Machine Learning as a first step towards building great Data Literacy among the students.
 
 ## Venue
 
@@ -10,6 +11,13 @@ All lectures will take place in Room 5 of the "[Antoni M. Alcover Building](http
 ## Schedule
 
 - **Sept 4 - 12:15-13:10** - [Basic Statistics and Probability](lecture1)
+  * Big Data vs Data Science
+  * Descriptive Statistics
+  * Anscombe's Quartet
+  * Quantiles
+  * Correlations
+  * Definition of Probability
+  * Bayes Theorem
 
 - **Sept 5 - 12:15-13:10** 
 
