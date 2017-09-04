@@ -1,3 +1,5 @@
+#!/usr/bin/env pythonw
+
 import numpy as np
 import matplotlib.pyplot as plt
 

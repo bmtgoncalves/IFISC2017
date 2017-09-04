@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import pandas as pd
 import numpy as np
 from collections import Counter
@@ -38,6 +40,7 @@ texts["ita"] = "Nucleare, Onu riunisce consiglio sicurezza. E Seul simula attacc
 texts["fre"] = "Corée du Nord : les Etats-Unis prêts à utiliser leurs capacités nucléaires".lower()
 texts["spa"] = "Estados Unidos amenaza con una “respuesta militar masiva” a Corea del Norte".lower()
 texts["ger"] = "Überraschung".lower()
+texts["ita2"] = "Wales lancia la Wikipedia delle news. Contro il fake in campo anche Google".lower()
 
 langs, P_letter, L_lang_letter = load_data()
 
