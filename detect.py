@@ -30,9 +30,10 @@ def detect_lang(langs, P_letter, L_lang_letter, text):
 
     L_text = np.dot(L_lang_letter, counts)
     index = np.argmax(L_text)
-    lang_text = langs[np.argmax(L_text)]
+    lang_text = langs[index]
+    prob = np.exp(L_text[index])/np.sum(np.exp(L_text))*100
 
-    return lang_text, L_text
+    return lang_text, prob, L_text
 
 texts = {}
 texts["eng"] = "North Korea’s Test of Nuclear Bomb Amplifies a Global Crisis".lower()
@@ -46,5 +47,5 @@ langs, P_letter, L_lang_letter = load_data()
 
 for lang in texts:
     text = texts[lang]
-    lang_text, L_text = detect_lang(langs, P_letter, L_lang_letter, text)
-    print(lang, lang_text, text)
+    lang_text, prob, L_text = detect_lang(langs, P_letter, L_lang_letter, text)
+    print(lang, lang_text, prob, text)
