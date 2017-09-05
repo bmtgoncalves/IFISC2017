@@ -19,7 +19,17 @@ All lectures will take place in Room 5 of the "[Antoni M. Alcover Building](http
   * Definition of Probability
   * Bayes Theorem
 
-- **Sept 5 - 12:15-13:10** 
+- **Sept 5 - 12:15-13:10** - [Bayesian and Maximum Likelihood Analyses](lecture2)
+  * Naive Bayes Classifier
+  * Language Detection
+  * Central Limit Theorem
+  * Maximum Likelihood Estimation
+  * Binomial Distribution
+  * Beta Distribution
+  * A/B Testing
+  * p-values
+  * Bonferoni Correction
+  * Simpson's Paradox
 
 - **Sept 6 - 12:15-13:10** 
 
