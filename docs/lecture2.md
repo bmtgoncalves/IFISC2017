@@ -18,4 +18,4 @@ By the end of the lecture the students will understand some of the fundamental c
 
 <center>
 <iframe src="https://www.slideshare.net/slideshow/embed_code/key/CPgn7ckVOFt9rF" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></center>
-<div align="left" style="float: left;"><a href="/IFISC2017/lecture1">[Previous Lecture]</a></div><div align="right" style="float: right;"><!--a href="/TorinoCourse/lecture2"-->[Next Lecture]<!--/a--></div>
+<div align="left" style="float: left;"><a href="/IFISC2017/lecture1">[Previous Lecture]</a></div><div align="right" style="float: right;"><a href="/IFISC2017/lecture3">[Next Lecture]</a></div>

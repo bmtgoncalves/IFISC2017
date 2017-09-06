@@ -31,7 +31,15 @@ All lectures will take place in Room 5 of the "[Antoni M. Alcover Building](http
   * Bonferoni Correction
   * Simpson's Paradox
 
-- **Sept 6 - 12:15-13:10** 
+- **Sept 6 - 12:15-13:10** - [Unsupervised Learning](lecture3)
+  * Types of Machine Learning
+  * Data Normalization
+  * Clustering
+  * K-Means
+  * Silhouette Analysis
+  * Expectation Maximization
+  * Gaussian Mixture Models
+  * Principal Component Analysis
 
 - **Sept 7 - 12:15-13:10** 
 
