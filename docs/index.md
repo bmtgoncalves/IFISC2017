@@ -41,7 +41,16 @@ All lectures will take place in Room 5 of the "[Antoni M. Alcover Building](http
   * Gaussian Mixture Models
   * Principal Component Analysis
 
-- **Sept 7 - 12:15-13:10** 
+- **Sept 7 - 12:15-13:10** - [Supervised Learning](lecture4)
+  * Regression vs Classification
+  * Overfitting
+  * Bias-Variance Tradeoff
+  * K-Nearest Neighbors
+  * Validation dataset
+  * Perceptron
+  * Activation Functions
+  * Back Propagation
+  * Support Vector Machines
 
 - **Sept 8 - 12:15-13:10** 
 
