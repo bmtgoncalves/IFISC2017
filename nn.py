@@ -8,9 +8,22 @@ hidden_layer_size = 50
 num_labels = 10
 
 X_train = np.load('input/X_train.npy')
-X_test = np.load('input/X_test.npy')
 y_train = np.load('input/y_train.npy')
+
+order = list(range(X_train.shape[0]))
+np.random.shuffle(order)
+
+X_train = X_train[order]
+y_train = y_train[order]
+
+X_test = np.load('input/X_test.npy')
 y_test = np.load('input/y_test.npy')
+
+order = list(range(X_test.shape[0]))
+np.random.shuffle(order)
+
+X_test = X_test[order]
+y_test = y_test[order]
 
 input_layer_size = X_train.shape[1]
 
