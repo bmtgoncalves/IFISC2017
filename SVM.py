@@ -32,6 +32,7 @@ input_layer_size = X_train.shape[1]
 
 X_train /= 255.
 X_test /= 255.
+X_validate /= 255.
 
 def accuracy(y_test, y_pred):
     return np.sum(y_test==y_pred)/len(y_test)
@@ -41,5 +42,4 @@ clf.fit(X_train, y_train)
 
 y_pred = clf.predict(X_validate)
 
-print(accuracy(y_validate, y_pred)) 
-print(clf.support_vectors)
+print(accuracy(y_validate, y_pred))
