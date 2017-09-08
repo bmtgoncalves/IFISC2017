@@ -52,7 +52,12 @@ All lectures will take place in Room 5 of the "[Antoni M. Alcover Building](http
   * Back Propagation
   * Support Vector Machines
 
-- **Sept 8 - 12:15-13:10** 
+- **Sept 8 - 12:15-13:10** [Neural Network Applications](lecture5)
+  * MNIST Digit recognition
+  * Interpretability
+  * word2vec
+  * Word Analogies
+  * Deep Learning Architectures
 
   ## Instructor
 
