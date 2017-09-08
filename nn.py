@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env pythonw
 
 import numpy as np
 from activation import sigmoid, sigmoidGradient
